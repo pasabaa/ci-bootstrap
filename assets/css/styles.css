@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+    color: #2E282A;
+}
+.bg-red {
+    background: #FF3C38;
+}
+
+.text-indigo {
+    color: #6610f2;
+}
+
+.text-purple {
+    color: #6f42c1;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
